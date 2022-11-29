@@ -1,0 +1,13 @@
+{ 
+ "user_data": ["ceklimit","buylimit","topbalance"],
+ "group": ["group","setpp","revoke","tagall","leave","absenstart","absen","cekabsen","delabsen"],
+ "owner": ["mode"],
+ "media": ["sticker","swm","smeme","toimg"],
+ "random": ["alay","namaninja"],
+ "fun": ["suit","calculator"],
+ "stalker": ["lirik","ytstalk","githubstalk"],
+ "download": ["ytmp4","ytmp3","tiktok","zippyshare"],
+ "anime": ["kusonime", "otakudesu","whatanime"],
+ "generator": ["tourl", "tourl2", "qrgenerator","qrreader"],
+ "game": ["tebakgambar"]
+}
